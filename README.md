@@ -12,7 +12,7 @@
 - ✅ **Long-term Consistency**: Maintains rating integrity over multiple seasons
 
 ## See Korean GUIDE 
-- \/KR/ZERO_SUM_ELO_GUIDE_KR.md\
+- KOREAN ELO GUIDE(/KR/ZERO_SUM_ELO_GUIDE_KR.md)
 
 ### Quick Comparison
 | Aspect | Traditional ELO | Zero-Sum ELO |
