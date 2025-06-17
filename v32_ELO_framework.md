@@ -317,4 +317,4 @@ class V32KBOEnhancedCalculator:
 
 *Document Version: 1.0*  
 *Last Updated: June 18, 2025*  
-*Authors: KBO Analytics Research Team*
+*Author : Minkoo Song
